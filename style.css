@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 100px;
+    
+}
+.navbar .container{
+
+}
+.navbar .can{
+    width: 150px;
+}
+.collapse{
+    margin-left: 70px;
+}
+.collapse .navbar-nav li{
+    margin: 20px;
+}
+.collapse .navbar-nav li ul{
+    font-size: 15px;
+}
+.dil{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.dil h1{
+    font-size: 70px;
+}
+.dil h1 b{
+   color: rgb(107, 177, 234);
+}
+.pro{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn1{
+    margin-left: 45%;
+    width: 200px;
+    
+    margin-top: 25px;
+}
+.cards{
+    display: flex;
+    
+}
+.cards .card img{
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+
+}
+.cards .card{
+    margin: 40px;
+}
+
+.cards .card img:hover{
+    scale: 1.2;
+}
+.fit{
+    text-align: center;
+    margin-top: 20px;
+}
+.plan{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+.plan .card{
+    margin-left: 100px;
+    height: 300px;
+   
+    
+}
+.plan .car .card{
+    border-radius: 30px;
+    background-color: rgb(236, 232, 241);
+}
+.plan .car .card h5{
+    font-size: 30px;
+}
+
+.lin{
+    text-align: center;
+    margin-top: 50px;
+}
+.com{
+    text-align: center;
+    margin-top: 70px;
+}
+.company{
+    display: flex;
+}
+.company .comp img{
+    width: 200px;
+    margin: 85px;
+}
+.ai{
+    display: flex;
+}
+.ai .ai1 img{
+    border-radius: 50px;
+    width: 800px;
+}
+.ai .ai1{
+    margin: 40px;
+}
+
+.ai .ai1 p{
+    font-size: 25px;
+    margin-top: 30px;
+}
+.aii{
+    display: flex;
+    margin-top: 50px;
+}
+.aii .ai12 img{
+    border-radius: 50px;
+    width: 800px;
+}
+.aii .ai12{
+    margin: 30px;
+}
+
+.aii .ai12 p{
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.aiii{
+    display: flex;
+    margin-top: 30px;
+}
+.aiii .ai123 img{
+    border-radius: 50px;
+    width: 800px;
+}
+.aiii .ai123{
+    margin: 40px;
+}
+
+.aiii .ai123 p{
+    font-size: 25px;
+    margin-top: 30px;
+}
+.oo .mm img{
+    border-radius: 50px;
+    width: 800px;
+
+}
+.oo{
+    display: flex;
+    margin-top: 40px;
+}
+.oo .mm{
+    margin: 40px;
+}
+.oo .mm ul li{
+    font-size: 26px;
+}
+.oo .mm .btn{
+    background-color: rgb(192, 135, 245);
+}
+.btn1 .btn{
+    background-color: blueviolet;
+}
+.btn1 b{
+    color: rgb(6, 8, 10);
+}
+.modal-body .log img{
+    width: 200px;
+}
+.modal-body{
+    display: flex;
+}
+.modal-body .log{
+    margin: 15px;
+
+}
